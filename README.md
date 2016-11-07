@@ -1,1 +1,1 @@
-# linux-sysadmin-course
+# linux-commands
