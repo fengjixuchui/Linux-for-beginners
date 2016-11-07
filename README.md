@@ -1,6 +1,6 @@
 # linux-commands
 # Read and learn more, about linux!
-![img](https://github.com/nu11secur1ty/linux-commands/blob/master/linux.png)
+![img](https://github.com/nu11secur1ty/linux-commands/blob/master/Linux.png)
 
 
 
